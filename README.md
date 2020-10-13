@@ -53,7 +53,7 @@ A brief description of myself, I'm a hardcore self-taught, I work and love softw
 
 
 #### Stats
-[![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=bymaximus.bymaximus&title=Visitors%20Now)](https://github.com/bymaximus/bymaximus)
-[![Visits Badge](https://badges.pufler.dev/visits/bymaximus/bymaximus?logo=GitHub&label=Profile%20Views)](https://github.com/bymaximus/bymaximus)
-[![Updated Badge](https://badges.pufler.dev/updated/bymaximus/bymaximus?label=Profile%20Updated)](https://github.com/bymaximus/bymaximus)
+<!--[ ! [ Visitor Badge ](https://visitor-badge.laobi.icu/badge?page_id=bymaximus.bymaximus&title=Visitors%20Now)](https://github.com/bymaximus/bymaximus)
+[! [ Visits Badge ](https://badges.pufler.dev/visits/bymaximus/bymaximus?logo=GitHub&label=Profile%20Views)](https://github.com/bymaximus/bymaximus)
+[ ! [ Updated Badge ](https://badges.pufler.dev/updated/bymaximus/bymaximus?label=Profile%20Updated)](https://github.com/bymaximus/bymaximus)-->
 [![Repos Badge](https://badges.pufler.dev/repos/bymaximus?logo=GitHub&label=Total%20Repositories)](https://github.com/bymaximus?tab=repositories)
